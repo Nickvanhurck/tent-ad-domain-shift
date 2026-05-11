@@ -144,6 +144,3 @@ onnxruntime
 - [ ] Write-up / findings
 
 ---
-
-*Part of a 3-project portfolio on robust perception for autonomous driving.*  
-*Related: [ssl-detection-bdd](https://github.com/Nickvanhurck/ssl-detection-bdd) · [detector-distillation-analysis](https://github.com/Nickvanhurck/detector-distillation-analysis)*
